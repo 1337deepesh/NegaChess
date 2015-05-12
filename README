@@ -1,4 +1,4 @@
-usage: NegaChess.py
+usage: NegaChess.py <Negachess_database>
 
             NegaChess: A Pygame Chess Engine/GUI.   
 Copyright (C) 2015 Deepesh Nagarajan (1337deepesh@gmail.com)
@@ -11,4 +11,6 @@ This program is distributed in the hope that it will be useful, but
 WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 See the GNU General Public License <http://www.gnu.org/licenses/>
-for more detail
+for more details.
+
+Pre-requisites: install pygame: sudo apt-get install python-pygame
